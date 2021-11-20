@@ -1,5 +1,79 @@
 # 我的Windows软件列表
 
+## 目录
+
+- [装机必备](https://github.com/icexmoon/tools/blob/main/documents/%E6%88%91%E7%9A%84%E8%BD%AF%E4%BB%B6%E5%88%97%E8%A1%A8_image.md#%E8%A3%85%E6%9C%BA%E5%BF%85%E5%A4%87)
+  - [win10镜像](https://github.com/icexmoon/tools/blob/main/documents/%E6%88%91%E7%9A%84%E8%BD%AF%E4%BB%B6%E5%88%97%E8%A1%A8_image.md#win10%E9%95%9C%E5%83%8F)
+  - [office](https://github.com/icexmoon/tools/blob/main/documents/%E6%88%91%E7%9A%84%E8%BD%AF%E4%BB%B6%E5%88%97%E8%A1%A8_image.md#office)
+  - [visio 2019](https://github.com/icexmoon/tools/blob/main/documents/%E6%88%91%E7%9A%84%E8%BD%AF%E4%BB%B6%E5%88%97%E8%A1%A8_image.md#visio-2019)
+  - [微PE](https://github.com/icexmoon/tools/blob/main/documents/%E6%88%91%E7%9A%84%E8%BD%AF%E4%BB%B6%E5%88%97%E8%A1%A8_image.md#%E5%BE%AEpe)
+  - [UltraISO](https://github.com/icexmoon/tools/blob/main/documents/%E6%88%91%E7%9A%84%E8%BD%AF%E4%BB%B6%E5%88%97%E8%A1%A8_image.md#ultraiso)
+- [效率工具](https://github.com/icexmoon/tools/blob/main/documents/%E6%88%91%E7%9A%84%E8%BD%AF%E4%BB%B6%E5%88%97%E8%A1%A8_image.md#%E6%95%88%E7%8E%87%E5%B7%A5%E5%85%B7)
+  - [Listary](https://github.com/icexmoon/tools/blob/main/documents/%E6%88%91%E7%9A%84%E8%BD%AF%E4%BB%B6%E5%88%97%E8%A1%A8_image.md#listary)
+  - [Utools](https://github.com/icexmoon/tools/blob/main/documents/%E6%88%91%E7%9A%84%E8%BD%AF%E4%BB%B6%E5%88%97%E8%A1%A8_image.md#utools)
+  - [Capslock+](https://github.com/icexmoon/tools/blob/main/documents/%E6%88%91%E7%9A%84%E8%BD%AF%E4%BB%B6%E5%88%97%E8%A1%A8_image.md#capslock)
+  - [Evernote](https://github.com/icexmoon/tools/blob/main/documents/%E6%88%91%E7%9A%84%E8%BD%AF%E4%BB%B6%E5%88%97%E8%A1%A8_image.md#evernote)
+  - [幕布](https://github.com/icexmoon/tools/blob/main/documents/%E6%88%91%E7%9A%84%E8%BD%AF%E4%BB%B6%E5%88%97%E8%A1%A8_image.md#%E5%B9%95%E5%B8%83)
+  - [space sniffer](https://github.com/icexmoon/tools/blob/main/documents/%E6%88%91%E7%9A%84%E8%BD%AF%E4%BB%B6%E5%88%97%E8%A1%A8_image.md#space-sniffer)
+- [系统工具](https://github.com/icexmoon/tools/blob/main/documents/%E6%88%91%E7%9A%84%E8%BD%AF%E4%BB%B6%E5%88%97%E8%A1%A8_image.md#%E7%B3%BB%E7%BB%9F%E5%B7%A5%E5%85%B7)
+  - [bandlzip](https://github.com/icexmoon/tools/blob/main/documents/%E6%88%91%E7%9A%84%E8%BD%AF%E4%BB%B6%E5%88%97%E8%A1%A8_image.md#bandlzip)
+  - [caesium](https://github.com/icexmoon/tools/blob/main/documents/%E6%88%91%E7%9A%84%E8%BD%AF%E4%BB%B6%E5%88%97%E8%A1%A8_image.md#caesium)
+  - [稻壳阅读器](https://github.com/icexmoon/tools/blob/main/documents/%E6%88%91%E7%9A%84%E8%BD%AF%E4%BB%B6%E5%88%97%E8%A1%A8_image.md#%E7%A8%BB%E5%A3%B3%E9%98%85%E8%AF%BB%E5%99%A8)
+  - [DiskGenius](https://github.com/icexmoon/tools/blob/main/documents/%E6%88%91%E7%9A%84%E8%BD%AF%E4%BB%B6%E5%88%97%E8%A1%A8_image.md#diskgenius)
+  - [EasyPub](https://github.com/icexmoon/tools/blob/main/documents/%E6%88%91%E7%9A%84%E8%BD%AF%E4%BB%B6%E5%88%97%E8%A1%A8_image.md#easypub)
+  - [火绒](https://github.com/icexmoon/tools/blob/main/documents/%E6%88%91%E7%9A%84%E8%BD%AF%E4%BB%B6%E5%88%97%E8%A1%A8_image.md#%E7%81%AB%E7%BB%92)
+  - [SDFormatter](https://github.com/icexmoon/tools/blob/main/documents/%E6%88%91%E7%9A%84%E8%BD%AF%E4%BB%B6%E5%88%97%E8%A1%A8_image.md#sdformatter)
+  - [vmware workstation pro](https://github.com/icexmoon/tools/blob/main/documents/%E6%88%91%E7%9A%84%E8%BD%AF%E4%BB%B6%E5%88%97%E8%A1%A8_image.md#vmware-workstation-pro)
+  - [vnc viewer](https://github.com/icexmoon/tools/blob/main/documents/%E6%88%91%E7%9A%84%E8%BD%AF%E4%BB%B6%E5%88%97%E8%A1%A8_image.md#vnc-viewer)
+  - [win32DiskImager](https://github.com/icexmoon/tools/blob/main/documents/%E6%88%91%E7%9A%84%E8%BD%AF%E4%BB%B6%E5%88%97%E8%A1%A8_image.md#win32diskimager)
+  - [winRAR](https://github.com/icexmoon/tools/blob/main/documents/%E6%88%91%E7%9A%84%E8%BD%AF%E4%BB%B6%E5%88%97%E8%A1%A8_image.md#winrar)
+  - [Typora](https://github.com/icexmoon/tools/blob/main/documents/%E6%88%91%E7%9A%84%E8%BD%AF%E4%BB%B6%E5%88%97%E8%A1%A8_image.md#typora)
+  - [f.lux](https://github.com/icexmoon/tools/blob/main/documents/%E6%88%91%E7%9A%84%E8%BD%AF%E4%BB%B6%E5%88%97%E8%A1%A8_image.md#flux)
+  - [Dism++](https://github.com/icexmoon/tools/blob/main/documents/%E6%88%91%E7%9A%84%E8%BD%AF%E4%BB%B6%E5%88%97%E8%A1%A8_image.md#dism)
+- [影音娱乐](https://github.com/icexmoon/tools/blob/main/documents/%E6%88%91%E7%9A%84%E8%BD%AF%E4%BB%B6%E5%88%97%E8%A1%A8_image.md#%E5%BD%B1%E9%9F%B3%E5%A8%B1%E4%B9%90)
+  - [Potplayer](https://github.com/icexmoon/tools/blob/main/documents/%E6%88%91%E7%9A%84%E8%BD%AF%E4%BB%B6%E5%88%97%E8%A1%A8_image.md#potplayer)
+  - [网易UU加速器](https://github.com/icexmoon/tools/blob/main/documents/%E6%88%91%E7%9A%84%E8%BD%AF%E4%BB%B6%E5%88%97%E8%A1%A8_image.md#%E7%BD%91%E6%98%93uu%E5%8A%A0%E9%80%9F%E5%99%A8)
+  - [网易云音乐](https://github.com/icexmoon/tools/blob/main/documents/%E6%88%91%E7%9A%84%E8%BD%AF%E4%BB%B6%E5%88%97%E8%A1%A8_image.md#%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90)
+  - [格式工厂](https://github.com/icexmoon/tools/blob/main/documents/%E6%88%91%E7%9A%84%E8%BD%AF%E4%BB%B6%E5%88%97%E8%A1%A8_image.md#%E6%A0%BC%E5%BC%8F%E5%B7%A5%E5%8E%82)
+  - [洛雪音乐助手](https://github.com/icexmoon/tools/blob/main/documents/%E6%88%91%E7%9A%84%E8%BD%AF%E4%BB%B6%E5%88%97%E8%A1%A8_image.md#%E6%B4%9B%E9%9B%AA%E9%9F%B3%E4%B9%90%E5%8A%A9%E6%89%8B)
+  - [MusicPlayer2](https://github.com/icexmoon/tools/blob/main/documents/%E6%88%91%E7%9A%84%E8%BD%AF%E4%BB%B6%E5%88%97%E8%A1%A8_image.md#musicplayer2)
+  - [Steam](https://github.com/icexmoon/tools/blob/main/documents/%E6%88%91%E7%9A%84%E8%BD%AF%E4%BB%B6%E5%88%97%E8%A1%A8_image.md#steam)
+  - [WallPapperEngine](https://github.com/icexmoon/tools/blob/main/documents/%E6%88%91%E7%9A%84%E8%BD%AF%E4%BB%B6%E5%88%97%E8%A1%A8_image.md#wallpaperengine)
+- [网络工具](https://github.com/icexmoon/tools/blob/main/documents/%E6%88%91%E7%9A%84%E8%BD%AF%E4%BB%B6%E5%88%97%E8%A1%A8_image.md#%E7%BD%91%E7%BB%9C%E5%B7%A5%E5%85%B7)
+  - [ShadowsocksR](https://github.com/icexmoon/tools/blob/main/documents/%E6%88%91%E7%9A%84%E8%BD%AF%E4%BB%B6%E5%88%97%E8%A1%A8_image.md#shadowsocksr)
+  - [SoftDownloader](https://github.com/icexmoon/tools/blob/main/documents/%E6%88%91%E7%9A%84%E8%BD%AF%E4%BB%B6%E5%88%97%E8%A1%A8_image.md#softdownloader)
+  - [迅雷](https://github.com/icexmoon/tools/blob/main/documents/%E6%88%91%E7%9A%84%E8%BD%AF%E4%BB%B6%E5%88%97%E8%A1%A8_image.md#%E8%BF%85%E9%9B%B7)
+  - [URLHelper](https://github.com/icexmoon/tools/blob/main/documents/%E6%88%91%E7%9A%84%E8%BD%AF%E4%BB%B6%E5%88%97%E8%A1%A8_image.md#urlhelper)
+  - [V2RayN](https://github.com/icexmoon/tools/blob/main/documents/%E6%88%91%E7%9A%84%E8%BD%AF%E4%BB%B6%E5%88%97%E8%A1%A8_image.md#v2rayn)
+  - [WeChat](https://github.com/icexmoon/tools/blob/main/documents/%E6%88%91%E7%9A%84%E8%BD%AF%E4%BB%B6%E5%88%97%E8%A1%A8_image.md#wechat)
+  - [qBittorentEE](https://github.com/icexmoon/tools/blob/main/documents/%E6%88%91%E7%9A%84%E8%BD%AF%E4%BB%B6%E5%88%97%E8%A1%A8_image.md#qbittorrentee)
+  - [IDM](https://github.com/icexmoon/tools/blob/main/documents/%E6%88%91%E7%9A%84%E8%BD%AF%E4%BB%B6%E5%88%97%E8%A1%A8_image.md#idm)
+  - [firefox](https://github.com/icexmoon/tools/blob/main/documents/%E6%88%91%E7%9A%84%E8%BD%AF%E4%BB%B6%E5%88%97%E8%A1%A8_image.md#firefox)
+  - [GlassWire](https://github.com/icexmoon/tools/blob/main/documents/%E6%88%91%E7%9A%84%E8%BD%AF%E4%BB%B6%E5%88%97%E8%A1%A8_image.md#glasswire)
+- [开发工具](https://github.com/icexmoon/tools/blob/main/documents/%E6%88%91%E7%9A%84%E8%BD%AF%E4%BB%B6%E5%88%97%E8%A1%A8_image.md#%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7)
+  - [AndroidStudio](https://github.com/icexmoon/tools/blob/main/documents/%E6%88%91%E7%9A%84%E8%BD%AF%E4%BB%B6%E5%88%97%E8%A1%A8_image.md#andoridstudio)
+  - [EA](https://github.com/icexmoon/tools/blob/main/documents/%E6%88%91%E7%9A%84%E8%BD%AF%E4%BB%B6%E5%88%97%E8%A1%A8_image.md#ea)
+  - [Git](https://github.com/icexmoon/tools/blob/main/documents/%E6%88%91%E7%9A%84%E8%BD%AF%E4%BB%B6%E5%88%97%E8%A1%A8_image.md#git)
+  - [Microsoft VS Code](https://github.com/icexmoon/tools/blob/main/documents/%E6%88%91%E7%9A%84%E8%BD%AF%E4%BB%B6%E5%88%97%E8%A1%A8_image.md#microsoft-vs-code)
+  - [Python](https://github.com/icexmoon/tools/blob/main/documents/%E6%88%91%E7%9A%84%E8%BD%AF%E4%BB%B6%E5%88%97%E8%A1%A8_image.md#python)
+  - [SQLyog](https://github.com/icexmoon/tools/blob/main/documents/%E6%88%91%E7%9A%84%E8%BD%AF%E4%BB%B6%E5%88%97%E8%A1%A8_image.md#sqlyog)
+  - [SVN](https://github.com/icexmoon/tools/blob/main/documents/%E6%88%91%E7%9A%84%E8%BD%AF%E4%BB%B6%E5%88%97%E8%A1%A8_image.md#svn)
+  - [XAMPP](https://github.com/icexmoon/tools/blob/main/documents/%E6%88%91%E7%9A%84%E8%BD%AF%E4%BB%B6%E5%88%97%E8%A1%A8_image.md#xampp)
+  - [Xmanager](https://github.com/icexmoon/tools/blob/main/documents/%E6%88%91%E7%9A%84%E8%BD%AF%E4%BB%B6%E5%88%97%E8%A1%A8_image.md#xmanager)
+  - [MySQL Workbench](https://github.com/icexmoon/tools/blob/main/documents/%E6%88%91%E7%9A%84%E8%BD%AF%E4%BB%B6%E5%88%97%E8%A1%A8_image.md#mysql-workbench)
+  - [SQLite Expert Personal](https://github.com/icexmoon/tools/blob/main/documents/%E6%88%91%E7%9A%84%E8%BD%AF%E4%BB%B6%E5%88%97%E8%A1%A8_image.md#sqlite-expert-personal)
+  - [PostgreSQL](https://github.com/icexmoon/tools/blob/main/documents/%E6%88%91%E7%9A%84%E8%BD%AF%E4%BB%B6%E5%88%97%E8%A1%A8_image.md#postgresql)
+- [浏览器插件](https://github.com/icexmoon/tools/blob/main/documents/%E6%88%91%E7%9A%84%E8%BD%AF%E4%BB%B6%E5%88%97%E8%A1%A8_image.md#%E6%B5%8F%E8%A7%88%E5%99%A8%E6%8F%92%E4%BB%B6)
+  - [Tampermonkey](https://github.com/icexmoon/tools/blob/main/documents/%E6%88%91%E7%9A%84%E8%BD%AF%E4%BB%B6%E5%88%97%E8%A1%A8_image.md#tampermonkey)
+  - [谷歌上网助手](https://github.com/icexmoon/tools/blob/main/documents/%E6%88%91%E7%9A%84%E8%BD%AF%E4%BB%B6%E5%88%97%E8%A1%A8_image.md#%E8%B0%B7%E6%AD%8C%E4%B8%8A%E7%BD%91%E5%8A%A9%E6%89%8B-%E6%BA%90%E7%A0%81%E7%89%88)
+  - [Adblock](https://github.com/icexmoon/tools/blob/main/documents/%E6%88%91%E7%9A%84%E8%BD%AF%E4%BB%B6%E5%88%97%E8%A1%A8_image.md#adblock)
+  - [Evernote Web Clipper](https://github.com/icexmoon/tools/blob/main/documents/%E6%88%91%E7%9A%84%E8%BD%AF%E4%BB%B6%E5%88%97%E8%A1%A8_image.md#evernote-web-clipper)
+  - [Raindrop.io](https://github.com/icexmoon/tools/blob/main/documents/%E6%88%91%E7%9A%84%E8%BD%AF%E4%BB%B6%E5%88%97%E8%A1%A8_image.md#raindropio)
+  - [Save to Pocket](https://github.com/icexmoon/tools/blob/main/documents/%E6%88%91%E7%9A%84%E8%BD%AF%E4%BB%B6%E5%88%97%E8%A1%A8_image.md#save-to-pocket)
+  - [侧边翻译](https://github.com/icexmoon/tools/blob/main/documents/%E6%88%91%E7%9A%84%E8%BD%AF%E4%BB%B6%E5%88%97%E8%A1%A8_image.md#%E4%BE%A7%E8%BE%B9%E7%BF%BB%E8%AF%91)
+  - [简悦](https://github.com/icexmoon/tools/blob/main/documents/%E6%88%91%E7%9A%84%E8%BD%AF%E4%BB%B6%E5%88%97%E8%A1%A8_image.md#%E7%AE%80%E6%82%A6---simpread)
+  - [LastPass](https://github.com/icexmoon/tools/blob/main/documents/%E6%88%91%E7%9A%84%E8%BD%AF%E4%BB%B6%E5%88%97%E8%A1%A8_image.md#lastpass)
+
 最近因为一些原因不得不重装系统，所以顺便把电脑中的所有应用整理一下，相当于做个应用安装索引，以方便重装。
 
 这里提供一个文中所有百度盘下载的总列表：
@@ -457,6 +531,14 @@ http抓包工具。
 > 提取码：e9oj
 
 ![image-20210507214327708](https://image2.icexmoon.xyz/image/image-20210507214327708.png)
+
+### dev-sidecar
+
+官网：<https://gitee.com/docmirror/dev-sidecar>
+
+如果你访问Github遇到了问题，可以试试这个，原理是通过添加信任证书规避对Github443端口访问可能遇到的问题。
+
+![image-20211120203601580](https://image2.icexmoon.xyz/image/image-20211120203601580.png)
 
 ## 开发工具
 
