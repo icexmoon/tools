@@ -8,6 +8,7 @@
   - [visio 2019](https://github.com/icexmoon/tools/blob/main/documents/%E6%88%91%E7%9A%84%E8%BD%AF%E4%BB%B6%E5%88%97%E8%A1%A8_image.md#visio-2019)
   - [微PE](https://github.com/icexmoon/tools/blob/main/documents/%E6%88%91%E7%9A%84%E8%BD%AF%E4%BB%B6%E5%88%97%E8%A1%A8_image.md#%E5%BE%AEpe)
   - [UltraISO](https://github.com/icexmoon/tools/blob/main/documents/%E6%88%91%E7%9A%84%E8%BD%AF%E4%BB%B6%E5%88%97%E8%A1%A8_image.md#ultraiso)
+  - [QQ输入法](https://github.com/icexmoon/tools/blob/main/documents/我的软件列表_image.md#qq输入法)
 - [效率工具](https://github.com/icexmoon/tools/blob/main/documents/%E6%88%91%E7%9A%84%E8%BD%AF%E4%BB%B6%E5%88%97%E8%A1%A8_image.md#%E6%95%88%E7%8E%87%E5%B7%A5%E5%85%B7)
   - [Listary](https://github.com/icexmoon/tools/blob/main/documents/%E6%88%91%E7%9A%84%E8%BD%AF%E4%BB%B6%E5%88%97%E8%A1%A8_image.md#listary)
   - [Utools](https://github.com/icexmoon/tools/blob/main/documents/%E6%88%91%E7%9A%84%E8%BD%AF%E4%BB%B6%E5%88%97%E8%A1%A8_image.md#utools)
