@@ -67,6 +67,7 @@
   - [PostgreSQL](https://github.com/icexmoon/tools/blob/main/documents/%E6%88%91%E7%9A%84%E8%BD%AF%E4%BB%B6%E5%88%97%E8%A1%A8_image.md#postgresql)
   - [PowerShell](https://github.com/icexmoon/tools/blob/main/documents/我的软件列表_image.md#powershell)
   - [Windows Terminal](https://github.com/icexmoon/tools/blob/main/documents/我的软件列表_image.md#windows-terminal)
+  - [TortoiseGit](https://github.com/icexmoon/tools/blob/main/documents/我的软件列表_image.md#tortoisegit)
 - [浏览器插件](https://github.com/icexmoon/tools/blob/main/documents/%E6%88%91%E7%9A%84%E8%BD%AF%E4%BB%B6%E5%88%97%E8%A1%A8_image.md#%E6%B5%8F%E8%A7%88%E5%99%A8%E6%8F%92%E4%BB%B6)
   - [Tampermonkey](https://github.com/icexmoon/tools/blob/main/documents/%E6%88%91%E7%9A%84%E8%BD%AF%E4%BB%B6%E5%88%97%E8%A1%A8_image.md#tampermonkey)
   - [谷歌上网助手](https://github.com/icexmoon/tools/blob/main/documents/%E6%88%91%E7%9A%84%E8%BD%AF%E4%BB%B6%E5%88%97%E8%A1%A8_image.md#%E8%B0%B7%E6%AD%8C%E4%B8%8A%E7%BD%91%E5%8A%A9%E6%89%8B-%E6%BA%90%E7%A0%81%E7%89%88)
@@ -161,6 +162,12 @@ ed2k://|file|cn_visio_professional_2019_x86_x64_dvd_97bda48c.iso|3775004672|26D2
 > 用户名：王涛
 >
 > 注册码：7C81-1689-4046-626F
+
+### QQ输入法
+
+官网：[QQ输入法 (pinyin.cn)](http://qq.pinyin.cn/)
+
+这是少数国内比较好用且良心的软件了。
 
 ## 效率工具
 
@@ -668,7 +675,7 @@ Oracle开发的MySQL辅助设计工具，有两个版本，免费的社区版和
 
 安装指南可以参考[Windows Terminal+PowerShell 配置 - 魔芋红茶's blog (icexmoon.cn)](https://blog.icexmoon.cn/archives/96.html)。
 
-### Tortoisegit
+### TortoiseGit
 
 官网：[TortoiseGit – Windows Shell Interface to Git](https://tortoisegit.org/)
 
