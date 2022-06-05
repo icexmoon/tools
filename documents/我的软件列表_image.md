@@ -518,11 +518,38 @@ http抓包工具。
 
 具体的破解方式可以阅读[插件激活（该方法为备用，建议优先使用我们提供的正版激活）_IDEA激活码,IDEA激活码2022,IDEA注册码,IDEA永久破解,Pycharm激活码,Webstorm激活码 (ajihuo.com)](https://www.ajihuo.com/soft/4329.html)。
 
+安装好后还需要进行各种配置才能好用，如果以前使用过，可以通过导出和导入配置来完成迁移。否则可以通过阅读[（2021 最新版）IntelliJ IDEA 下载安装及配置教程 - 云+社区 - 腾讯云 (tencent.com)](https://cloud.tencent.com/developer/article/1843025)完成配置。
+
 ### Maven
 
 Java开发需要的包管理工具
 
 官网：[Maven – Welcome to Apache Maven](https://maven.apache.org/)
+
+安装好后最好修改一下安装目录下的配置文件`/conf/setting.xml`
+
+主要需要修改Maven下载包的目录和仓库镜像：
+
+```xml
+...
+<localRepository>D:\software\develop\apache-maven-3.8.5\repo</localRepository>
+...
+	<mirror>
+      <id>alimaven</id>
+      <name>aliyun maven</name>
+      <url>http://maven.aliyun.com/nexus/content/groups/public/</url>
+      <mirrorOf>central</mirrorOf>        
+    </mirror>
+    ...
+    <mirror>
+      <id>maven-default-http-blocker</id>
+      <mirrorOf>external:http:*</mirrorOf>
+      <name>Pseudo repository to mirror external repositories initially using HTTP.</name>
+      <url>http://0.0.0.0/</url>
+      <blocked>true</blocked>
+    </mirror>
+    ...
+```
 
 ### AndoridStudio
 
