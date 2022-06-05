@@ -51,6 +51,7 @@
   - [firefox](https://github.com/icexmoon/tools/blob/main/documents/%E6%88%91%E7%9A%84%E8%BD%AF%E4%BB%B6%E5%88%97%E8%A1%A8_image.md#firefox)
   - [GlassWire](https://github.com/icexmoon/tools/blob/main/documents/%E6%88%91%E7%9A%84%E8%BD%AF%E4%BB%B6%E5%88%97%E8%A1%A8_image.md#glasswire)
 - [开发工具](https://github.com/icexmoon/tools/blob/main/documents/%E6%88%91%E7%9A%84%E8%BD%AF%E4%BB%B6%E5%88%97%E8%A1%A8_image.md#%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7)
+  - [IntelliJ IDEA](https://github.com/icexmoon/tools/blob/main/documents/我的软件列表_image.md#intellij-idea)
   - [AndroidStudio](https://github.com/icexmoon/tools/blob/main/documents/%E6%88%91%E7%9A%84%E8%BD%AF%E4%BB%B6%E5%88%97%E8%A1%A8_image.md#andoridstudio)
   - [EA](https://github.com/icexmoon/tools/blob/main/documents/%E6%88%91%E7%9A%84%E8%BD%AF%E4%BB%B6%E5%88%97%E8%A1%A8_image.md#ea)
   - [Git](https://github.com/icexmoon/tools/blob/main/documents/%E6%88%91%E7%9A%84%E8%BD%AF%E4%BB%B6%E5%88%97%E8%A1%A8_image.md#git)
@@ -516,6 +517,12 @@ http抓包工具。
 可以从这个官方页面[Other Versions - IntelliJ IDEA (jetbrains.com)](https://www.jetbrains.com/idea/download/other.html)下载各种版本的IDEA，建议下载2022.1之前的版本，比较容易破解。
 
 具体的破解方式可以阅读[插件激活（该方法为备用，建议优先使用我们提供的正版激活）_IDEA激活码,IDEA激活码2022,IDEA注册码,IDEA永久破解,Pycharm激活码,Webstorm激活码 (ajihuo.com)](https://www.ajihuo.com/soft/4329.html)。
+
+### Maven
+
+Java开发需要的包管理工具
+
+官网：[Maven – Welcome to Apache Maven](https://maven.apache.org/)
 
 ### AndoridStudio
 
