@@ -65,6 +65,8 @@
   - [MySQL Workbench](https://github.com/icexmoon/tools/blob/main/documents/%E6%88%91%E7%9A%84%E8%BD%AF%E4%BB%B6%E5%88%97%E8%A1%A8_image.md#mysql-workbench)
   - [SQLite Expert Personal](https://github.com/icexmoon/tools/blob/main/documents/%E6%88%91%E7%9A%84%E8%BD%AF%E4%BB%B6%E5%88%97%E8%A1%A8_image.md#sqlite-expert-personal)
   - [PostgreSQL](https://github.com/icexmoon/tools/blob/main/documents/%E6%88%91%E7%9A%84%E8%BD%AF%E4%BB%B6%E5%88%97%E8%A1%A8_image.md#postgresql)
+  - [PowerShell](https://github.com/icexmoon/tools/blob/main/documents/我的软件列表_image.md#powershell)
+  - [Windows Terminal](https://github.com/icexmoon/tools/blob/main/documents/我的软件列表_image.md#windows-terminal)
 - [浏览器插件](https://github.com/icexmoon/tools/blob/main/documents/%E6%88%91%E7%9A%84%E8%BD%AF%E4%BB%B6%E5%88%97%E8%A1%A8_image.md#%E6%B5%8F%E8%A7%88%E5%99%A8%E6%8F%92%E4%BB%B6)
   - [Tampermonkey](https://github.com/icexmoon/tools/blob/main/documents/%E6%88%91%E7%9A%84%E8%BD%AF%E4%BB%B6%E5%88%97%E8%A1%A8_image.md#tampermonkey)
   - [谷歌上网助手](https://github.com/icexmoon/tools/blob/main/documents/%E6%88%91%E7%9A%84%E8%BD%AF%E4%BB%B6%E5%88%97%E8%A1%A8_image.md#%E8%B0%B7%E6%AD%8C%E4%B8%8A%E7%BD%91%E5%8A%A9%E6%89%8B-%E6%BA%90%E7%A0%81%E7%89%88)
@@ -662,7 +664,17 @@ Oracle开发的MySQL辅助设计工具，有两个版本，免费的社区版和
 
 帮助整合命令行工具的工具，可以通过它统一管理多个不同种类的命令行工具，如CMD/PowerShell等，且还可以使用SSH远程连接Linux主机。微软为它赋予了全新的UI语言和毛玻璃特效，颜值高。
 
+安装方式为通过Windows Store获取（Win11已预装）。
+
 安装指南可以参考[Windows Terminal+PowerShell 配置 - 魔芋红茶's blog (icexmoon.cn)](https://blog.icexmoon.cn/archives/96.html)。
+
+### Tortoisegit
+
+官网：[TortoiseGit – Windows Shell Interface to Git](https://tortoisegit.org/)
+
+和TortoriseSVN同出一脉，可以看做是git版本的“小乌龟”，本身是一个相当好用的图形化的git客户端，尤其是在比对代码时。
+
+> TortoiseGit对多语言的支持需要额外安装语言包，在安装后进入设置向导，然后按提示前往相应的页面下载并安装语言包即可。
 
 ## 浏览器插件
 
