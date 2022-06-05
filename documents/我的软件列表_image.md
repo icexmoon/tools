@@ -648,6 +648,8 @@ Oracle开发的MySQL辅助设计工具，有两个版本，免费的社区版和
 
 可以通过[这里](https://dev.mysql.com/downloads/workbench/)下载免费的社区版。
 
+> 该软件需要Visual C++运行库，可以从[Latest supported Visual C++ Redistributable downloads | Microsoft Docs](https://docs.microsoft.com/en-US/cpp/windows/latest-supported-vc-redist?view=msvc-170)下载并安装。
+
 ### SQLite Expert Personal
 
 官网：<http://www.sqliteexpert.com/>
