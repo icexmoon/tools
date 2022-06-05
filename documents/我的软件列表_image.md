@@ -52,6 +52,7 @@
   - [GlassWire](https://github.com/icexmoon/tools/blob/main/documents/%E6%88%91%E7%9A%84%E8%BD%AF%E4%BB%B6%E5%88%97%E8%A1%A8_image.md#glasswire)
 - [开发工具](https://github.com/icexmoon/tools/blob/main/documents/%E6%88%91%E7%9A%84%E8%BD%AF%E4%BB%B6%E5%88%97%E8%A1%A8_image.md#%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7)
   - [IntelliJ IDEA](https://github.com/icexmoon/tools/blob/main/documents/我的软件列表_image.md#intellij-idea)
+  - [Maven](https://github.com/icexmoon/tools/blob/main/documents/我的软件列表_image.md#maven)
   - [AndroidStudio](https://github.com/icexmoon/tools/blob/main/documents/%E6%88%91%E7%9A%84%E8%BD%AF%E4%BB%B6%E5%88%97%E8%A1%A8_image.md#andoridstudio)
   - [EA](https://github.com/icexmoon/tools/blob/main/documents/%E6%88%91%E7%9A%84%E8%BD%AF%E4%BB%B6%E5%88%97%E8%A1%A8_image.md#ea)
   - [Git](https://github.com/icexmoon/tools/blob/main/documents/%E6%88%91%E7%9A%84%E8%BD%AF%E4%BB%B6%E5%88%97%E8%A1%A8_image.md#git)
@@ -623,6 +624,12 @@ github配套的代码管理工具。
 >
 > 激活码：101210-450789-147200
 
+随着Linux版本的更新，加入了一些新的SSH加密算法，所以上边的老版本在连接新Linux发行版时可能会失败，所以推荐通过XShell官网获取免费个人最新版进行安装使用：
+
+- [XSHELL - NetSarang Website](https://www.xshell.com/zh/xshell/)
+
+填写申请后会通过邮件发送下载链接，需要注意的是有两个邮件，一个是XShell一个是XFtp。
+
 ### MySQL Workbench
 
 官网：<https://www.mysql.com/products/workbench/>
@@ -642,6 +649,20 @@ Oracle开发的MySQL辅助设计工具，有两个版本，免费的社区版和
 官网：<https://www.postgresql.org/>
 
 开源的关系型数据库，并且自带可视化管理工具。
+
+### PowerShell
+
+微软为了取代老旧的CMD而推出的新时代命令行工具，优点是可以在Windows上使用Linux风格的工具，且与WSL配合的很好。
+
+官网：[PowerShell/PowerShell: PowerShell for every system! (github.com)](https://github.com/PowerShell/PowerShell)
+
+安装指南可以参考[Windows Terminal+PowerShell 配置 - 魔芋红茶's blog (icexmoon.cn)](https://blog.icexmoon.cn/archives/96.html)。
+
+### Windows Terminal
+
+帮助整合命令行工具的工具，可以通过它统一管理多个不同种类的命令行工具，如CMD/PowerShell等，且还可以使用SSH远程连接Linux主机。微软为它赋予了全新的UI语言和毛玻璃特效，颜值高。
+
+安装指南可以参考[Windows Terminal+PowerShell 配置 - 魔芋红茶's blog (icexmoon.cn)](https://blog.icexmoon.cn/archives/96.html)。
 
 ## 浏览器插件
 
