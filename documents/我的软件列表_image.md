@@ -623,6 +623,10 @@ github配套的代码管理工具。
 
 一站式PHP开发环境搭建工具。
 
+> 因为不知道的原因，目前无法通过官网正常下载安装包，但可以通过sourceforge间接下载全部的历史版本的安装包，下载页面：
+>
+> - [XAMPP - Browse Files at SourceForge.net](https://sourceforge.net/projects/xampp/files/)
+
 ### Xmanager
 
 强大的远程连接工具，包含XSheel，XFtp等工具。
@@ -677,7 +681,9 @@ Oracle开发的MySQL辅助设计工具，有两个版本，免费的社区版和
 
 安装方式为通过Windows Store获取（Win11已预装）。
 
-安装指南可以参考[Windows Terminal+PowerShell 配置 - 魔芋红茶's blog (icexmoon.cn)](https://blog.icexmoon.cn/archives/96.html)。
+<del>安装指南可以参考[Windows Terminal+PowerShell 配置 - 魔芋红茶's blog (icexmoon.cn)](https://blog.icexmoon.cn/archives/96.html)。</del>（已不再适合新版本）
+
+此外，微软也提供了详尽的官方指南[Windows 终端概述 | Microsoft Docs](https://docs.microsoft.com/zh-cn/windows/terminal/)。
 
 ### TortoiseGit
 
