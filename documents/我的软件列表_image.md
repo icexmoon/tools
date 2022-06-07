@@ -611,6 +611,10 @@ github配套的代码管理工具。
 > 名称：ddooo；
 > 证书秘钥：8d8120df-a5c3-4989-8f47-5afc79c56e7c；
 
+经过测试，新版本的MySQL同样采用了新的加密协议进行连接，所有老版本的SQLyog同样失效，可以通过使用最新的社区版继续白嫖，下载地址如下：
+
+- [Downloads · webyog/sqlyog-community Wiki (github.com)](https://github.com/webyog/sqlyog-community/wiki/Downloads)
+
 ### SVN
 
 官网：<https://tortoisesvn.net/>
@@ -626,6 +630,18 @@ github配套的代码管理工具。
 > 因为不知道的原因，目前无法通过官网正常下载安装包，但可以通过sourceforge间接下载全部的历史版本的安装包，下载页面：
 >
 > - [XAMPP - Browse Files at SourceForge.net](https://sourceforge.net/projects/xampp/files/)
+>
+> 此外，最新的XAMPP已经将使用的数据库从MySQL切换到了MariaDB，理论上是完全兼容MySQL的，但如果需要确保和生产环境一致等原因，可以单独安装MySQL。
+
+### MySQL
+
+官网：[MySQL](https://www.mysql.com/)
+
+Windows下安装可以参考：
+
+- [Windows下安装MySQL详细教程 - m1racle - 博客园 (cnblogs.com)](https://www.cnblogs.com/zhangkanghui/p/9613844.html)。
+
+> 按以上方式安装后每次开机后不会启动MySQL服务，需要自行手动启动。
 
 ### Xmanager
 
