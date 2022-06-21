@@ -715,6 +715,14 @@ Oracle开发的MySQL辅助设计工具，有两个版本，免费的社区版和
 
 一款不错的接口调试工具，用于前后端接口调试。
 
+### Redis
+
+官网：[Redis](https://redis.io/)
+
+知名NoSQL存储应用，官方已经不再支持WIndows平台的安装支持，微软提供了一个安装支持，不过该项目已经很久未维护，版本很老，不过作为开发测试还是够用的，具体方式可以参考：
+
+- [在 windows 上安装 Redis](https://www.redis.com.cn/redis-installation.html)
+
 ## 浏览器插件
 
 这里就简单介绍用途，下载请根据自己使用的浏览器去下载。
