@@ -615,6 +615,14 @@ github配套的代码管理工具。
 
 - [Downloads · webyog/sqlyog-community Wiki (github.com)](https://github.com/webyog/sqlyog-community/wiki/Downloads)
 
+社区版有个缺陷，无法使用SSH连接等高级功能，如果需要可以下载下面的白嫖版：
+
+- [SQLyog最新破解版|SQLyog破解版 V13.1.6 中文免费版 下载_当下软件园_软件下载 (downxia.com)](http://www.downxia.com/downinfo/350020.html)
+
+如果用SQLyog连接MySQL8.0以上的数据库出现问题，可以尝试下边的办法解决：
+
+- [‘caching_sha2_password‘ cannot be loaded_rsr_lbd的博客-CSDN博客_caching_sha2_password cannot](https://blog.csdn.net/lbd565611140/article/details/108748300)
+
 ### SVN
 
 官网：<https://tortoisesvn.net/>
